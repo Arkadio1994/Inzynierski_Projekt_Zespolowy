@@ -1,0 +1,9 @@
+10 - maja kolejny termin
+Dodanie projektów i je¿eli siê uda to u¿ytkowników ( rola, list wszystkich u¿ytkowników),
+Zastanowiæ siê czy ka¿dy mo¿e dodaæ projekt,
+W skrócie, aktywny ma byæ projekt i w miarê mo¿liwoœci u¿ytkownicy wraz z ich spisem.
+
+--------
+
+Dodatkowo zapoznaæ siê z REST czyli czytelniejszy adres URL.
+fulmanski.pl/blog tutaj wiêcej informacji
